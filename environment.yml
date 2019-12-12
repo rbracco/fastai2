@@ -18,4 +18,6 @@ dependencies:
 - scikit-learn
 - scipy
 - spacy
-
+- librosa
+- torchaudio>=0.3.0
+- colorednoise
